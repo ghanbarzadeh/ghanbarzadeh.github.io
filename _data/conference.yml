@@ -20,7 +20,7 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
-    - title: Design of a Genetic based Optimized Fuzzy Logic Controller for Enhanced Trajectory Tracking Accuracy of a 3P Robot
+  - title: Design of a Genetic based Optimized Fuzzy Logic Controller for Enhanced Trajectory Tracking Accuracy of a 3P Robot
     authors: A. Kouhkord, <strong>A. Ghanbarzadeh</strong>, P. Ebrahimi and E. Najafi
     conference_short: ICROM
     conference: 10th RSI International Conference on Robotics and Mechatronics <strong>(ICROM)</strong>, 2022.
