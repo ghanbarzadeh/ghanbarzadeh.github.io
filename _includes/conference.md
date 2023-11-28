@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Conference Proceedings</h2>
+<h3 id="publications" style="margin: 2px 0px -15px;">Conference Proceedings</h3>
 
 <div class="publications">
 <ol class="bibliography">
