@@ -5,6 +5,7 @@ main:
     conference_short: ICROM
     conference: 11th RSI International Conference on Robotics and Mechatronics <strong>(ICROM)</strong>, 2023.
     notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
 
   - title: A Multiclass Retinal Diseases Classification Algorithm using Deep Learning Methods
     authors: R. B. Nejad, J. Khoramdel, <strong>A. Ghanbarzadeh</strong>, M. Sharbatdar and E. Najafi
