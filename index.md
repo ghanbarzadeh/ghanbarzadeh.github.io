@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I Have a BSc in Mechanical Engineering from K.N. Tousi University of Tehran, and an MSc in Mechatronics Engineering from the same institution. My masters thesis was titled "Implementation of an intelligent control method for safe human and industrial robot collaboration" under the supervision of Dr. Esmaeil Najafi.  I hope to continue my studies in the realm of robotics and artificial intelligence. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Robotics:** human-robot collaboration and interaction, mobile robots, motion planning
+- **Machine Learning:** reinforcement Learning, neural networks, image processing, object detection
 
 ## Publications
 
