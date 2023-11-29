@@ -1,51 +1,45 @@
 main:
 
-  - title: Design of a Genetic based Optimized Fuzzy Logic Controller for Enhanced Trajectory Tracking Accuracy of a 3P Robot
+  - title: Control Design for Safe Human-Robot Collaboration based on ISO/TS 15066 with Power and Force Limit
     authors: A. Golshani, A. Kouhkord, <strong>A. Ghanbarzadeh</strong> and E. Najafi
     conference_short: ICROM
     conference: 11th RSI International Conference on Robotics and Mechatronics <strong>(ICROM)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    site: assets/files/Armin_Ghanbarzadeh_CV.pdf
+    pdf: assets/files/Armin_Ghanbarzadeh_CV.pdf
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Oral Presentation
 
   - title: A Multiclass Retinal Diseases Classification Algorithm using Deep Learning Methods
     authors: R. B. Nejad, J. Khoramdel, <strong>A. Ghanbarzadeh</strong>, M. Sharbatdar and E. Najafi
     conference_short: ICROM
     conference: 10th RSI International Conference on Robotics and Mechatronics <strong>(ICROM)</strong>, 2022.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    site: https://ieeexplore.ieee.org/document/10025206
+    pdf: assets/files/ICRoM22_Reza.pdf
+    image: ./assets/img/ICRoM22_Reza.jpg
 
   - title: Design of a Genetic based Optimized Fuzzy Logic Controller for Enhanced Trajectory Tracking Accuracy of a 3P Robot
     authors: A. Kouhkord, <strong>A. Ghanbarzadeh</strong>, P. Ebrahimi and E. Najafi
     conference_short: ICROM
     conference: 10th RSI International Conference on Robotics and Mechatronics <strong>(ICROM)</strong>, 2022.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    site: https://ieeexplore.ieee.org/document/10025249
+    pdf: assets/files/ICRoM22_Koohkord.pdf
+    image: ./assets/img/ICRoM22_Reza.jpg
+    notes: Oral Presentation
 
   - title: Design of an Intelligent Control System for Safe Collaboration between Human and a Robotic Manipulator
     authors: A. Aeini, E. Droudian, <strong>A. Ghanbarzadeh</strong> and E. Najafi
     conference_short: ICROM
     conference: 9th RSI International Conference on Robotics and Mechatronics <strong>(ICROM)</strong>, 2021.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    site: https://ieeexplore.ieee.org/document/9663503
+    pdf: assets/files/ICRoM21_Aeini.pdf
+    image: ./assets/img/ICRoM22_Reza.jpg
+    notes: Oral Presentation
 
   - title: Design of an Optimized Fuzzy Controller for a 3R Non-planar Robotic Manipulator
     authors: <strong>A. Ghanbarzadeh</strong> and E. Najafi
     conference_short: ICROM
     conference: 9th RSI International Conference on Robotics and Mechatronics <strong>(ICROM)</strong>, 2021.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    site: https://ieeexplore.ieee.org/document/9663441
+    pdf: assets/files/ICRoM21_Armin.pdf
+    image: ./assets/img/ICRoM22_Reza.jpg
+    notes: Oral Presentation
