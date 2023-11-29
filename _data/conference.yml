@@ -6,7 +6,7 @@ main:
     conference: 11th RSI International Conference on Robotics and Mechatronics <strong>(ICROM)</strong>, 2023.
     site: assets/files/Armin_Ghanbarzadeh_CV.pdf
     pdf: assets/files/Armin_Ghanbarzadeh_CV.pdf
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/files/ICRoM23_Golshani.png
     notes: Oral Presentation
 
   - title: A Multiclass Retinal Diseases Classification Algorithm using Deep Learning Methods
@@ -23,7 +23,7 @@ main:
     conference: 10th RSI International Conference on Robotics and Mechatronics <strong>(ICROM)</strong>, 2022.
     site: https://ieeexplore.ieee.org/document/10025249
     pdf: assets/files/ICRoM22_Koohkord.pdf
-    image: ./assets/files/ICRoM22_Reza.jpg
+    image: ./assets/files/ICRoM22_Koohkord.png
     notes: Oral Presentation
 
   - title: Design of an Intelligent Control System for Safe Collaboration between Human and a Robotic Manipulator
@@ -32,7 +32,7 @@ main:
     conference: 9th RSI International Conference on Robotics and Mechatronics <strong>(ICROM)</strong>, 2021.
     site: https://ieeexplore.ieee.org/document/9663503
     pdf: assets/files/ICRoM21_Aeini.pdf
-    image: ./assets/files/ICRoM22_Reza.jpg
+    image: ./assets/files/ICRoM21_Aeini.jpg
     notes: Oral Presentation
 
   - title: Design of an Optimized Fuzzy Controller for a 3R Non-planar Robotic Manipulator
@@ -41,5 +41,5 @@ main:
     conference: 9th RSI International Conference on Robotics and Mechatronics <strong>(ICROM)</strong>, 2021.
     site: https://ieeexplore.ieee.org/document/9663441
     pdf: assets/files/ICRoM21_Armin.pdf
-    image: ./assets/files/ICRoM22_Reza.jpg
+    image: ./assets/files/ICRoM21_Armin.png
     notes: Oral Presentation
