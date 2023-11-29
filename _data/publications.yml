@@ -1,15 +1,15 @@
 main:
 
-  - title: Control Design for Safe Human-Robot Collaboration based on ISO/TS 15066 with Power and Force Limit
-    authors: A. Golshani, A. Kouhkord, <strong>A. Ghanbarzadeh</strong> and E. Najafi
+  - title: Deep Reinforcement Learning Graphs: Feedback Motion Planning via Neural Lyapunov Verification
+    authors: <strong>A. Ghanbarzadeh</strong> and E. Najafi
     site: assets/files/Armin_Ghanbarzadeh_CV.pdf
     pdf: assets/files/Armin_Ghanbarzadeh_CV.pdf
     image: ./assets/files/Tree_Armin.png
-    notes: Oral Presentation
+    notes: Under Review
 
-  - title: A Multiclass Retinal Diseases Classification Algorithm using Deep Learning Methods
-    authors: R. B. Nejad, J. Khoramdel, <strong>A. Ghanbarzadeh</strong>, M. Sharbatdar and E. Najafi
+  - title: Safe Physical Human-Robot Interaction through Variable Impedance Control based on ISO/TS 15066
+    authors: <strong>A. Ghanbarzadeh</strong> and E. Najafi
     site: https://ieeexplore.ieee.org/document/10025206
     pdf: assets/files/ICRoM22_Reza.pdf
     image: ./assets/files/IMP_Armin.png
-    notes: Oral Presentation
+    notes: Under Review in IJIDeM
