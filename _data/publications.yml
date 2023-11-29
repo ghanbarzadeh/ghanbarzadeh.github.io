@@ -1,17 +1,18 @@
 main:
 
-  - title: Deep Reinforcement Learning Graphs: Feedback Motion Planning via Neural Lyapunov Verification
-    authors: <strong>A. Ghanbarzadeh</strong> and E. Najafi
-    conference: Under Review
+  - title: Control Design for Safe Human-Robot Collaboration based on ISO/TS 15066 with Power and Force Limit
+    authors: A. Golshani, A. Kouhkord, <strong>A. Ghanbarzadeh</strong> and E. Najafi
+    conference_short: ICROM
+    conference: 11th RSI International Conference on Robotics and Mechatronics <strong>(ICROM)</strong>, 2023.
     site: assets/files/Armin_Ghanbarzadeh_CV.pdf
     pdf: assets/files/Armin_Ghanbarzadeh_CV.pdf
-    image: ./assets/files/Tree_Armin.png
-    notes: Under Review
-    
-  - title: Safe Physical Human-Robot Interaction through Variable Impedance Control based on ISO/TS 15066
-    authors: <strong>A. Ghanbarzadeh</strong> and E. Najafi
-    conference: Under Review
-    site: https://arxiv.org/abs/2311.13814
-    pdf: https://arxiv.org/pdf/2311.13814
-    image: ./assets/files/IMP_Armin.png
-    notes: Under Review in IJIDeM
+    image: ./assets/files/ICRoM23_Golshani.png
+    notes: Oral Presentation
+
+  - title: A Multiclass Retinal Diseases Classification Algorithm using Deep Learning Methods
+    authors: R. B. Nejad, J. Khoramdel, <strong>A. Ghanbarzadeh</strong>, M. Sharbatdar and E. Najafi
+    conference_short: ICROM
+    conference: 10th RSI International Conference on Robotics and Mechatronics <strong>(ICROM)</strong>, 2022.
+    site: https://ieeexplore.ieee.org/document/10025206
+    pdf: assets/files/ICRoM22_Reza.pdf
+    image: ./assets/files/ICRoM22_Reza.jpg
