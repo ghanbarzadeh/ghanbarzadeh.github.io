@@ -4,12 +4,12 @@ main:
     authors: A. Golshani, A. Kouhkord, <strong>A. Ghanbarzadeh</strong> and E. Najafi
     site: assets/files/Armin_Ghanbarzadeh_CV.pdf
     pdf: assets/files/Armin_Ghanbarzadeh_CV.pdf
-    image: ./assets/files/ICRoM23_Golshani.png
+    image: ./assets/files/Tree_Armin.png
     notes: Oral Presentation
 
   - title: A Multiclass Retinal Diseases Classification Algorithm using Deep Learning Methods
     authors: R. B. Nejad, J. Khoramdel, <strong>A. Ghanbarzadeh</strong>, M. Sharbatdar and E. Najafi
     site: https://ieeexplore.ieee.org/document/10025206
     pdf: assets/files/ICRoM22_Reza.pdf
-    image: ./assets/files/ICRoM22_Reza.jpg
+    image: ./assets/files/IMP_Armin.png
     notes: Oral Presentation
