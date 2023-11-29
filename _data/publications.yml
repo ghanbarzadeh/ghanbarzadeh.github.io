@@ -2,6 +2,7 @@ main:
 
   - title: Deep Reinforcement Learning Graphs: Feedback Motion Planning via Neural Lyapunov Verification
     authors: <strong>A. Ghanbarzadeh</strong> and E. Najafi
+    conference: Under Review
     site: assets/files/Armin_Ghanbarzadeh_CV.pdf
     pdf: assets/files/Armin_Ghanbarzadeh_CV.pdf
     image: ./assets/files/Tree_Armin.png
@@ -9,6 +10,7 @@ main:
     
   - title: Safe Physical Human-Robot Interaction through Variable Impedance Control based on ISO/TS 15066
     authors: <strong>A. Ghanbarzadeh</strong> and E. Najafi
+    conference: Under Review
     site: https://arxiv.org/abs/2311.13814
     pdf: https://arxiv.org/pdf/2311.13814
     image: ./assets/files/IMP_Armin.png
