@@ -2,8 +2,8 @@ main:
 
   - title: "Deep Reinforcement Learning Graphs: Feedback Motion Planning via Neural Lyapunov Verification"
     authors: <strong>A. Ghanbarzadeh</strong> and E. Najafi
-    site: https://arxiv.org/abs/2311.13814
-    pdf: https://arxiv.org/pdf/2311.13814
+    site: https://arxiv.org/abs/2311.17587
+    pdf: https://arxiv.org/pdf/2311.17587
     image: ./assets/files/Tree_Armin.png
 
   - title: Safe Physical Human-Robot Interaction through Variable Impedance Control based on ISO/TS 15066
