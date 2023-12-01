@@ -8,7 +8,7 @@ I Have a BSc in Mechanical Engineering from K.N. Tousi University of Tehran, and
 
 ## Skills
 
-- **Robotics:** human-robot collaboration and interaction, mobile robots, motion planning, path planning and obstacle avoidance (Dijkstra, A*, RRT, PRM, artificial potential fields)
+- **Robotics:** human-robot collaboration and interaction, mobile robots, motion planning, path planning and obstacle avoidance (Dijkstra, A*, RRT, artificial potential fields)
 - **Control:** reinforcement learning (PPO, DDPG, DQN, Q-Learning, SARSA), fuzzy logic, impedance control, sliding-mode control, LQR
 - **Machine Learning:** SVM, KNN, clustering, regression, decision tree, bayesian inference, intelligent optimization (GA, PSO)
 - **Neural Networks:** MLP, CNN, RNN, object detection, transformers
